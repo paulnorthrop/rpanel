@@ -21,28 +21,35 @@ Authors@R:
            role = "cre",
            email = "p.northrop@ucl.ac.uk"))
 Depends: R (>= 4.1), tcltk
-Suggests: rgl, sp, geoR, interp, MASS, denstrip, lattice, sm, maps,
-        mgcv, colorspace, ggplot2, dplyr, scales, tidyr, fields,
-        ggforce, readr, readxl, sn, testthat (>= 3.0.0)
-Description: A set of functions to build simple 
-        GUI controls for R functions.  These are built on the 'tcltk' package. 
-        Uses could include changing a parameter on a graph by animating it 
-        with a slider or a "doublebutton", up to more sophisticated control 
-        panels.
-        Some functions for specific graphical tasks, referred to as 'cartoons',
-        are provided.
+Suggests:
+    rgl,
+    sp,
+    geoR,
+    interp,
+    MASS,
+    denstrip,
+    lattice,
+    sm,
+    maps,
+    mgcv,
+    colorspace,
+    ggplot2,
+    dplyr,
+    scales,
+    tidyr,
+    fields,
+    ggforce,
+    readr,
+    readxl,
+    sn,
+    testthat (>= 3.0.0)
+Description: A set of functions to build simple GUI controls for R functions.  
+    These are built on the 'tcltk' package. Uses could include changing a 
+    parameter on a graph by animating it with a slider or a "doublebutton", up 
+    to more sophisticated control panels. Some functions for specific graphical 
+    tasks, referred to as 'cartoons', are provided.
 License: GPL (>= 2)
-BugReports: https://github.com/adrian-bowman/rpanel/issues
+URL: https://github.com/paulnorthrop/rpanel
+BugReports: https://github.com/paulnorthrop/rpanel/issues
 LazyData: TRUE
 Config/testthat/edition: 3
-NeedsCompilation: no
-Packaged: 2026-11-12 12:05:39 UTC; ripley
-Author: Adrian Bowman [aut, cre, cph],
-  Ewan Crawford [aut],
-  Gavin Alexander [aut],
-  Richard Bowman [aut]
-Maintainer: ORPHANED
-Repository: CRAN
-Date/Publication: 2026-11-20 10:01:52
-X-CRAN-Original-Maintainer: Adrian Bowman <adrian.bowman@glasgow.ac.uk>
-X-CRAN-Comment: Orphaned on 2026-11-20
