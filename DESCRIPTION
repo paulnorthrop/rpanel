@@ -6,8 +6,7 @@ Date: 2026-11-20
 Authors@R: 
   c(person(given = "Adrian",
            family = "Bowman",
-           role = c("aut", "cre", "cph"),
-           email = "adrian.bowman@glasgow.ac.uk"),
+           role = c("aut", "cph")),
     person(given = "Ewan",
            family = "Crawford",
            role = "aut"),
@@ -16,7 +15,11 @@ Authors@R:
            role = "aut"),
     person(given = "Richard",
            family = "Bowman",
-           role = "aut"))
+           role = "aut"),
+    person(given = c("Paul", "J."),
+           family = "Northrop",
+           role = "cre",
+           email = "p.northrop@ucl.ac.uk"))
 Depends: R (>= 4.1), tcltk
 Suggests: rgl, sp, geoR, interp, MASS, denstrip, lattice, sm, maps,
         mgcv, colorspace, ggplot2, dplyr, scales, tidyr, fields,
