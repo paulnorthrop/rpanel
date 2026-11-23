@@ -2,7 +2,7 @@ Package: rpanel
 Type: Package
 Title: Simple Interactive Controls for R using the 'tcltk' Package
 Version: 1.1-6.4
-Date: 2026-11-20
+Date: 2026-11-23
 Authors@R: 
   c(person(given = "Adrian",
            family = "Bowman",
