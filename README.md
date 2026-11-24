@@ -15,7 +15,7 @@ Bioconductor that depend on `rpanel` to do this. `rpanel` has proved
 useful for teaching statistical ideas, visualising statistical results
 and informing choices of tuning parameters in statistical modelling.
 
-Adrian was recognized for his work in nonparametric smoothing,
+Adrian was widely recognized for his work in nonparametric smoothing,
 generalized linear models, statistical graphics and computational
 statistics. His book *Applied Smoothing Techniques for Data Analysis*,
 and accompanying R package `sm`, written with Adelchi Azzalini, became a
